@@ -8,10 +8,6 @@ body {
     max-width: 75%;
 }
 
-a:link {
-    text-decoration: none;
-}
-
 .url {
     color: #3434a8;
 }
@@ -20,7 +16,7 @@ a:link {
     color:#2d3c49
 }
 
-.link-featured {
+.link {
  color: #7d97ad;
 }
 
@@ -32,7 +28,7 @@ a:link {
     color: #101011;
 }
 
-.subheading {
+.role {
     font-size: 1.25em;
     margin: 9px 0 9px;
 }
@@ -69,7 +65,7 @@ a:link {
         font-size: 3em;
     }
 
-    .subheading {
+    .role {
         font-size: 1em;
     }
 
@@ -92,7 +88,7 @@ a:link {
         font-size: 2em;
     }
 
-    .subheading {
+    .role {
         font-size: 1em;
     }
 
@@ -123,7 +119,7 @@ a:link {
         font-size: 1.5em;
     }
 
-    .subheading {
+    .role {
         font-size: 0.8em;
     }
 
@@ -153,7 +149,7 @@ a:link {
         font-size: 1em;
     }
 
-    .subheading {
+    .role {
         font-size: 0.8em;
     }
 
